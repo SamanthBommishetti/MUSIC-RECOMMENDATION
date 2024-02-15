@@ -30,14 +30,6 @@ To use the notebook, simply open it in Jupyter Notebook and run the cells. The n
 
 The dataset used in this notebook is the [genres_v2.csv](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db) file from Kaggle. It contains audio features, lyrics, and metadata for over 232,000 tracks.
 
-#Technologies
-
-Streamlit: A Python library for building data science applications with an intuitive user interface.
-
-Scikit-learn: A popular machine learning library for data mining and data analysis.
-
-NLTK: A Python library for natural language processing.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
